@@ -2,8 +2,8 @@
 //  LoginPageUITests.swift
 //  LoginPageUITests
 //
-//  Created by Sai Varshith on 13/03/23.
-//  Copyright © 2023 Sai Varshith. All rights reserved.
+//  Created by  Waheeda Dudekula on 13/03/23.
+//  Copyright © 2023  Waheeda Dudekula and Sai Varshith. All rights reserved.
 //
 
 import XCTest
