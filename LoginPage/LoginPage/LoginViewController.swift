@@ -2,8 +2,8 @@
 //  LoginViewController.swift
 //  LoginPage
 //
-//  Created by Sai Varshith on 14/03/23.
-//  Copyright © 2023 Sai Varshith. All rights reserved.
+//  Created by  Waheeda Dudekula on 14/03/23.
+//  Copyright © 2023  Waheeda Dudekula and Sai Varshith. All rights reserved.
 //
 
 
